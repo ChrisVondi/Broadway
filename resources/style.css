@@ -1,0 +1,14 @@
+*{
+  text-align: center;
+}
+h1{
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.Header{
+  background-image: url(/resources/images/Broadway_building.png);
+}
